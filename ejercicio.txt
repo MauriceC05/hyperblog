@@ -3,3 +3,11 @@ Este es un ejercicio, que me sirve para practicar Git
 La idea del ejercicio es practicar todas las versiones
 
 Version 1, prueba 1
+
+Seguimos trabjando en codigo
+
+Estamos creando documentos
+
+Practicando PHP para hacer tiendas en linea.
+
+Version 2, prueba 2
