@@ -11,3 +11,9 @@ Estamos creando documentos
 Practicando PHP para hacer tiendas en linea.
 
 Version 2, prueba 2
+
+Despues de practicar Git podemos seguir usando versiones
+
+para poder practicar y aprender
+
+Version 3, prueba 3
