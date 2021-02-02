@@ -1,0 +1,5 @@
+Este es un ejercicio, que me sirve para practicar Git
+
+La idea del ejercicio es practicar todas las versiones
+
+Version 1, prueba 1
