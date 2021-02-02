@@ -12,8 +12,8 @@ Practicando PHP para hacer tiendas en linea.
 
 Version 2, prueba 2
 
-Despues de practicar Git podemos seguir usando versiones
+Viajamos en el tiempo a esta version y modificaremos la linea.
 
-para poder practicar y aprender
+Esta es una version nueva apartir de esta.
 
-Version 3, prueba 3
+Version 3.1, prueba 3.1
